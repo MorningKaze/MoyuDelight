@@ -1,0 +1,1089 @@
+[11:24:27.544] [Start] 程序版本：Release 2.6.1000（308）
+[11:24:27.545] [Start] 识别码：D384-B5EC-1D9B-4DC2
+[11:24:27.545] [Start] 程序路径：D:\Games\MC\Moyu Delight\Plain Craft Launcher 2.exe
+[11:24:27.547] [Start] 第一阶段加载用时：110 ms
+[11:24:27.620] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[11:24:27.621] [Start] 第二阶段加载用时：62 ms
+[11:24:27.625] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[11:24:27.769] [System] 窗口已置顶，位置：(850, 436), 860 x 520
+[11:24:27.772] [Start] 第三阶段加载用时：31 ms
+[11:24:27.772] [Animation] 动画线程开始
+[11:24:27.772] [Start] 加载 DLL：Json
+[11:24:27.772] [System] 获取资源：Json
+[11:24:27.777] [Launch] Minecraft 文件夹：D:\Games\MC\Moyu Delight\.minecraft\
+[11:24:27.798] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[11:24:27.814] [Page] 实例化：清空自定义主页 UI，来源为空
+[11:24:27.830] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[11:24:27.833] [Skin] 载入头像成功：Loader Skin Ms
+[11:24:27.866] [Java] 缓存中有 2 个可用的 Java：
+[11:24:27.866] [Java]  - JRE 8 (8.0.191)，64 位：D:\Games\MC\Java\bin\
+[11:24:27.866] [Java]  - JDK 17 (17.0.2)，64 位：D:\Games\MC\jdk-17.0.2\bin\
+[11:24:27.891] [Minecraft] 启动按钮：Minecraft 版本：D:\Games\MC\Moyu Delight\.minecraft\versions\Moyu Delight\
+[11:24:27.894] [Loader] 加载器 登录 状态改变：Loading
+[11:24:27.896] [Launch] 登录加载已开始
+[11:24:27.897] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[11:24:27.898] [Launch] 登录方式：正版（MorningKaze）
+[11:24:27.898] [Launch] 开始微软登录步骤 2（刷新登录）
+[11:24:27.901] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[11:24:28.070] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[11:24:28.070] [Loader] 加载器 PCL 服务 状态改变：Loading
+[11:24:28.071] [Server] 正在连接到 PCL 服务器
+[11:24:28.073] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[11:24:28.074] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1699759468-14274ce3-0-782e36fb5c9db6c75bcf353b74c07562，超时 10000ms
+[11:24:28.230] [Server] 服务器公告：120|307|308|5，无需更新
+[11:24:28.238] [Loader] 加载器 PCL 服务 状态改变：Finished
+[11:24:28.490] [System] DPI：144，系统版本：10.0.22621.0，PCL 位置：D:\Games\MC\Moyu Delight\Plain Craft Launcher 2.exe
+[11:24:28.789] [Launch] 开始微软登录步骤 3
+[11:24:28.789] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[11:24:28.815] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[11:24:29.041] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[11:24:29.542] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[11:24:29.610] [Control] 按下单选按钮：下载
+[11:24:29.664] [Loader] 加载器 DlClientList Main 状态改变：Loading
+[11:24:29.668] [Loader] 加载器 DlClientList Bmclapi 状态改变：Loading
+[11:24:29.668] [Loader] 加载器 DlClientList Mojang 状态改变：Waiting
+[11:24:29.669] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[11:24:29.670] [Control] 切换主要页面：Download, -1
+[11:24:29.764] [Loader] 加载器 DlOptiFineList Main 状态改变：Loading
+[11:24:29.765] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Loading
+[11:24:29.766] [Loader] 加载器 DlFabricList Main 状态改变：Loading
+[11:24:29.766] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Loading
+[11:24:29.768] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Loading
+[11:24:29.768] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/optifine/versionList，超时 10000ms，要求 json
+[11:24:29.769] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Loading
+[11:24:29.769] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/maven/com/mumfrey/liteloader/versions.json，超时 10000ms，要求 json
+[11:24:29.769] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/fabric-meta/v2/versions，超时 10000ms，要求 json
+[11:24:29.773] [Download] 刷新 Forge 推荐版本缓存开始
+[11:24:29.776] [Loader] 加载器 源码获取 153# 状态改变：Loading
+[11:24:29.793] [Download] -1798645995_152 163#：开始，起始点 0，https://bmclapi2.bangbang93.com/forge/promos
+[11:24:29.833] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Finished
+[11:24:29.838] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Finished
+[11:24:29.961] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Finished
+[11:24:29.962] [Loader] 加载器 DlFabricList Main 状态改变：Finished
+[11:24:30.000] [Download] -1798645995_152：文件大小 47712 B（46.6 K）
+[11:24:30.021] [Download] -1798645995_152：已完成，剩余文件 0
+[11:24:30.022] [Loader] 加载器 源码获取 153# 状态改变：Finished
+[11:24:30.029] [Download] 刷新 Forge 推荐版本缓存成功
+[11:24:30.038] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Finished
+[11:24:30.040] [Loader] 加载器 DlOptiFineList Main 状态改变：Finished
+[11:24:30.180] [Net] 获取网络结果：https://download.mcbbs.net/mc/game/version_manifest.json，超时 30000ms，要求 json
+[11:24:30.232] [Loader] 加载器 DlClientList Bmclapi 状态改变：Finished
+[11:24:30.306] [Loader] 加载器 DlClientList Main 状态改变：Finished
+[11:24:30.306] [Launch] 开始微软登录步骤 4
+[11:24:30.306] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[11:24:30.571] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[11:24:31.085] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[11:24:31.855] [Launch] 开始微软登录步骤 5
+[11:24:31.855] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[11:24:32.114] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[11:24:32.628] [Launch] 开始微软登录步骤 6
+[11:24:32.628] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[11:24:32.889] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[11:24:33.404] [Launch] 微软登录完成
+[11:24:33.404] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[11:24:33.426] [Launch] 登录加载已结束
+[11:24:33.426] [Loader] 加载器 登录 状态改变：Finished
+[11:24:37.577] [Control] 按下单选列表项：Mod
+[11:24:37.591] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[11:24:37.599] [Comp] 工程列表搜索原始文本：
+[11:24:37.600] [Comp] 工程列表搜索最终文本：
+[11:24:37.602] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0
+[11:24:37.602] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0，超时 10000ms，要求 json
+[11:24:37.603] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:mod"]]
+[11:24:37.603] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:mod"]]，超时 10000ms，要求 json
+[11:24:38.458] [Comp] 从 Modrinth 获取到了 40 个工程（已获取 40 个，共 14762 个）
+[11:24:39.178] [Comp] 从 CurseForge 获取到了 40 个工程（已获取 40 个，共 47995 个）
+[11:24:39.184] [System] 获取资源：ModData
+[11:24:39.198] [Comp] 将 Cloth Config API (cloth-config) 与 Cloth Config API (Fabric/Forge) (cloth-config) 认定为相似工程
+[11:24:39.198] [Comp] 将 Architectury API (architectury-api) 与 Architectury API (Fabric/Forge) (architectury-api) 认定为相似工程
+[11:24:39.199] [Comp] 去重、筛选后累计新增结果 78 个
+[11:24:39.208] [Comp] 开始可视化 Mod 列表，已储藏 78 个结果，当前在第 1 页
+[11:24:39.402] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[11:24:46.190] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[11:24:46.191] [Comp] 工程列表搜索原始文本：铁氧
+[11:24:46.404] [Comp] 中文搜索原始关键词：ferrite core ferritecore ferritecore ferritecore ferritecore fabric ferritecore 
+[11:24:46.404] [Comp] 中文搜索最终关键词：ferrite core ferritecore ferritecore ferritecore ferritecore fabric ferritecore  
+[11:24:46.404] [Comp] 已跳过搜索关键词：fabric
+[11:24:46.404] [Comp] 已跳过搜索关键词：fabric
+[11:24:46.404] [Comp] 工程列表搜索最终文本：ferrite core ferritecore
+[11:24:46.404] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=ferrite+core+ferritecore
+[11:24:46.404] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=ferrite+core+ferritecore，超时 10000ms，要求 json
+[11:24:46.404] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=ferrite+core+ferritecore&facets=[["project_type:mod"]]
+[11:24:46.404] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=ferrite+core+ferritecore&facets=[["project_type:mod"]]，超时 10000ms，要求 json
+[11:24:46.917] [Comp] 从 Modrinth 获取到了 1 个工程（已获取 1 个，共 1 个）
+[11:24:47.173] [Report] FPS 0, 动画 6, 下载中 0（0 B/s）
+[11:24:47.595] [Comp] 从 CurseForge 获取到了 40 个工程（已获取 40 个，共 241 个）
+[11:24:47.595] [Comp] 去重、筛选后累计新增结果 41 个
+[11:24:47.598] [Comp] 开始可视化 Mod 列表，已储藏 41 个结果，当前在第 1 页
+[11:24:47.618] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/323/941/256/256/637438748346113688.jpeg
+[11:24:47.618] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/358/34/256/256/637518275077940306.jpeg
+[11:24:47.623] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/14/190/256/256/635588122347757413.png
+[11:24:47.625] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/21/299/256/256/635725451812161186.png
+[11:24:47.625] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/169/441/256/256/636715177393727924.png
+[11:24:47.626] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/19/329/256/256/635693356033460215.png
+[11:24:47.627] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/74/932/256/256/636164473391946788.png
+[11:24:47.628] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/352/207/256/256/637507429195617557.png
+[11:24:47.631] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/31/78/256/256/635874411988512183.png
+[11:24:47.631] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/15/804/256/256/635634024622309024.png
+[11:24:47.633] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/108/684/256/256/636374315485450120.png
+[11:24:47.634] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/562/132/256/256/637915312191592976.png
+[11:24:47.635] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/540/438/256/256/637866039314801108.png
+[11:24:47.636] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/36/208/256/256/635935613362396350.png
+[11:24:47.637] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/37/816/256/256/635957528290871600.jpeg
+[11:24:47.638] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/260/118/256/256/637213545206072680.png
+[11:24:47.639] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/478/877/256/256/637775359762163506.png
+[11:24:47.640] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/435/788/256/256/637676303822777043.png
+[11:24:47.641] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/154/235/256/256/636624306034596169.png
+[11:24:47.642] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/20/982/256/256/635720647755227864.png
+[11:24:47.643] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/455/528/256/256/637724479989103081.png
+[11:24:47.645] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/168/960/256/256/636712400713893319.png
+[11:24:47.646] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/240/195/256/256/637119552534033403.png
+[11:24:47.647] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/104/604/256/256/636346972179825731.png
+[11:24:47.648] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/259/254/256/256/637210868764436330.png
+[11:24:47.649] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/329/918/256/256/637456399973255104.png
+[11:24:47.650] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/771/135/256/256/638110338411543043.png
+[11:24:47.651] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/566/468/256/256/637925518081896243.png
+[11:24:47.652] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/460/330/256/256/637738021015663856.png
+[11:24:47.653] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/108/715/256/256/636374488818477096.jpeg
+[11:24:47.654] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/19/218/256/256/635691765867011803.png
+[11:24:47.655] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/102/418/256/256/636330551149851153.png
+[11:24:47.656] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/831/935/256/256/638222519915142219.png
+[11:24:47.658] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/472/524/256/256/637762891524286406.png
+[11:24:47.659] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/106/194/256/256/636358150113594397.png
+[11:24:47.660] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/397/618/256/256/637598863480249487.png
+[11:24:47.663] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/185/593/256/256/636828583107479203.png
+[11:24:47.665] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/587/571/256/256/637956705252353398.png
+[11:24:47.666] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/775/393/256/256/638116659958300092.png
+[11:24:47.689] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[11:24:48.744] [Loader] 加载器 Comp File 状态改变：Loading
+[11:24:48.745] [Control] 切换主要页面：CompDetail, 0
+[11:24:48.745] [Control] 按下资源工程列表项：铁氧体磁芯
+[11:24:48.747] [Comp] 开始获取文件列表：uXXizFIs
+[11:24:48.747] [Net] 获取网络结果：https://api.modrinth.com/v2/project/uXXizFIs/version，超时 10000ms，要求 json
+[11:24:49.636] [Loader] 加载器 Comp File 状态改变：Finished
+[11:24:50.761] [Report] FPS 0, 动画 19, 下载中 0（0 B/s）
+[11:24:51.578] [Control] 展开卡片：1.19.2
+[11:24:52.678] [Control] 按下单击列表项：5.0.3 (Forge)
+[11:24:52.681] [Comp] 允许 Forge：True，允许 Fabric：False
+[11:24:52.683] [Comp] 使用当前版本的 mods 文件夹作为默认下载位置（Moyu Delight）
+[11:24:54.158] [UI] 选择文件返回：D:\Games\MC\Moyu Delight\.minecraft\mods\ferritecore-5.0.3-forge.jar
+[11:24:54.159] [Loader] 加载器 Mod 下载：5.0.3 (Forge)  状态改变：Loading
+[11:24:54.160] [Taskbar] Mod 下载：5.0.3 (Forge)  已加入任务列表
+[11:24:54.161] [Loader] 加载器 下载文件 状态改变：Loading
+[11:24:54.286] [Download] ferritecore-5.0.3-forge.jar 560#：开始，起始点 0，https://cdn.modrinth.com/data/uXXizFIs/versions/CtXsUUz6/ferritecore-5.0.3-forge.jar
+[11:24:54.985] [Download] ferritecore-5.0.3-forge.jar：文件大小 116824 B（114 K）
+[11:24:55.228] [Download] ferritecore-5.0.3-forge.jar：已完成，剩余文件 0
+[11:24:55.228] [Loader] 加载器 下载文件 状态改变：Finished
+[11:24:55.228] [Loader] 加载器 Mod 下载：5.0.3 (Forge)  状态改变：Finished
+[11:24:55.234] [UI] 弹出提示：Mod 下载：5.0.3 (Forge) 成功！
+[11:24:55.234] [Taskbar] Mod 下载：5.0.3 (Forge)  已移出任务列表
+[11:24:55.672] [Control] 按下图标按钮：BtnTitleInner
+[11:24:55.673] [Control] 切换主要页面：Download, -1
+[11:25:13.783] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[11:25:13.784] [Comp] 工程列表搜索原始文本：modernfix
+[11:25:13.784] [Comp] 工程列表搜索最终文本：modernfix
+[11:25:13.784] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=modernfix
+[11:25:13.784] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=modernfix，超时 10000ms，要求 json
+[11:25:13.784] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=modernfix&facets=[["project_type:mod"]]
+[11:25:13.784] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=modernfix&facets=[["project_type:mod"]]，超时 10000ms，要求 json
+[11:25:14.272] [Comp] 从 CurseForge 获取到了 1 个工程（已获取 1 个，共 1 个）
+[11:25:14.351] [Comp] 从 Modrinth 获取到了 3 个工程（已获取 3 个，共 3 个）
+[11:25:14.351] [Comp] 将 ModernFix (modernfix) 与 ModernFix (modernfix) 认定为相似工程
+[11:25:14.351] [Comp] 去重、筛选后累计新增结果 3 个
+[11:25:14.351] [Comp] 总结果数需求最少 40 个，仅获得了 3 个
+[11:25:14.351] [Comp] 无法继续加载，将强制结束
+[11:25:14.352] [Comp] 开始可视化 Mod 列表，已储藏 3 个结果，当前在第 1 页
+[11:25:14.365] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png
+[11:25:14.373] [Net] 直接下载文件：https://cdn.modrinth.com/data/2qcCxsBR/8c65de13f496ca67094899c1c26ebd4b4e45baec.png
+[11:25:14.394] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[11:25:15.559] [Control] 切换主要页面：CompDetail, 0
+[11:25:15.559] [Control] 按下资源工程列表项：现代化修复
+[11:25:15.722] [Loader] 加载器 Comp File 状态改变：Loading
+[11:25:15.723] [Comp] 开始获取文件列表：790626
+[11:25:15.723] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 15000
+[11:25:16.436] [Loader] 加载器 Comp File 状态改变：Finished
+[11:25:17.991] [Control] 展开卡片：1.19.2
+[11:25:18.802] [Control] 按下单击列表项：modernfix-forge-5.9.2+mc1.19.2.jar
+[11:25:18.802] [Comp] 允许 Forge：True，允许 Fabric：False
+[11:25:18.802] [Comp] 使用上次下载时的文件夹作为默认下载位置
+[11:25:19.644] [UI] 选择文件返回：D:\Games\MC\Moyu Delight\.minecraft\mods\modernfix-forge-5.9.2+mc1.19.2.jar
+[11:25:19.644] [Loader] 加载器 Mod 下载：modernfix-forge-5.9.2+mc1.19.2.jar  状态改变：Loading
+[11:25:19.644] [Taskbar] Mod 下载：modernfix-forge-5.9.2+mc1.19.2.jar  已加入任务列表
+[11:25:19.644] [Loader] 加载器 下载文件 状态改变：Loading
+[11:25:19.674] [Download] modernfix-forge-5.9.2+mc1.19.2.jar 776#：开始，起始点 0，https://media.forgecdn.net/files/4849/237/modernfix-forge-5.9.2%2bmc1.19.2.jar
+[11:25:20.035] [Download] modernfix-forge-5.9.2+mc1.19.2.jar：文件大小 683215 B（667 K）
+[11:25:21.308] [Control] 按下图标按钮：BtnTitleInner
+[11:25:21.308] [Control] 切换主要页面：Download, -1
+[11:25:21.321] [Download] modernfix-forge-5.9.2+mc1.19.2.jar：已完成，剩余文件 0
+[11:25:21.321] [Loader] 加载器 下载文件 状态改变：Finished
+[11:25:21.321] [Loader] 加载器 Mod 下载：modernfix-forge-5.9.2+mc1.19.2.jar  状态改变：Finished
+[11:25:21.374] [UI] 弹出提示：Mod 下载：modernfix-forge-5.9.2+mc1.19.2.jar 成功！
+[11:25:21.374] [Taskbar] Mod 下载：modernfix-forge-5.9.2+mc1.19.2.jar  已移出任务列表
+[11:25:24.816] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[11:25:24.817] [Comp] 工程列表搜索原始文本：dfu
+[11:25:24.817] [Comp] 工程列表搜索最终文本：dfu
+[11:25:24.817] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=dfu
+[11:25:24.817] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=dfu，超时 10000ms，要求 json
+[11:25:24.817] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=dfu&facets=[["project_type:mod"]]
+[11:25:24.817] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=dfu&facets=[["project_type:mod"]]，超时 10000ms，要求 json
+[11:25:25.311] [Comp] 从 Modrinth 获取到了 1 个工程（已获取 1 个，共 1 个）
+[11:25:25.315] [Comp] 从 CurseForge 获取到了 0 个工程（已获取 0 个，共 0 个）
+[11:25:25.315] [Comp] 去重、筛选后累计新增结果 1 个
+[11:25:25.315] [Comp] 总结果数需求最少 40 个，仅获得了 1 个
+[11:25:25.315] [Comp] 无法继续加载，将强制结束
+[11:25:25.316] [Comp] 开始可视化 Mod 列表，已储藏 1 个结果，当前在第 1 页
+[11:25:25.326] [Net] 直接下载文件：https://cdn.modrinth.com/data/avvuPide/03a10a0d13c5b651031f0a888f35595f8096f354.png
+[11:25:25.348] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[11:25:35.204] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[11:25:35.204] [Comp] 工程列表搜索原始文本：lazydfu
+[11:25:35.204] [Comp] 工程列表搜索最终文本：lazydfu
+[11:25:35.205] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=lazydfu
+[11:25:35.205] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=lazydfu，超时 10000ms，要求 json
+[11:25:35.205] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=lazydfu&facets=[["project_type:mod"]]
+[11:25:35.205] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=lazydfu&facets=[["project_type:mod"]]，超时 10000ms，要求 json
+[11:25:35.774] [Comp] 从 Modrinth 获取到了 2 个工程（已获取 2 个，共 2 个）
+[11:25:35.996] [Comp] 从 CurseForge 获取到了 2 个工程（已获取 2 个，共 2 个）
+[11:25:35.996] [Comp] 将 LazyDFU (lazydfu) 与 LazyDFU (lazydfu) 认定为相似工程
+[11:25:35.996] [Comp] 去重、筛选后累计新增结果 3 个
+[11:25:35.996] [Comp] 总结果数需求最少 40 个，仅获得了 3 个
+[11:25:35.996] [Comp] 无法继续加载，将强制结束
+[11:25:35.997] [Comp] 开始可视化 Mod 列表，已储藏 3 个结果，当前在第 1 页
+[11:25:36.005] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/328/780/256/256/637453335841858311.png
+[11:25:36.006] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/359/41/256/256/637520662016454676.png
+[11:25:36.007] [Net] 直接下载文件：https://cdn.modrinth.com/data/mJ07TlXK/c18ad8b5767f382ba67bb52dad228f5aeeda3403.png
+[11:25:36.028] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[11:25:38.140] [Control] 切换主要页面：CompDetail, 0
+[11:25:38.140] [Control] 按下资源工程列表项：DFU载入优化
+[11:25:38.313] [Loader] 加载器 Comp File 状态改变：Loading
+[11:25:38.313] [Comp] 开始获取文件列表：460819
+[11:25:38.313] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 15000
+[11:25:39.098] [Loader] 加载器 Comp File 状态改变：Finished
+[11:25:40.688] [Control] 展开卡片：1.19.2
+[11:25:46.407] [Control] 按下单击列表项：lazydfu-1.19-1.0.2.jar
+[11:25:46.407] [Comp] 允许 Forge：True，允许 Fabric：False
+[11:25:46.407] [Comp] 使用上次下载时的文件夹作为默认下载位置
+[11:25:47.143] [UI] 选择文件返回：D:\Games\MC\Moyu Delight\.minecraft\mods\lazydfu-1.19-1.0.2.jar
+[11:25:47.143] [Loader] 加载器 Mod 下载：lazydfu-1.19-1.0.2.jar  状态改变：Loading
+[11:25:47.143] [Taskbar] Mod 下载：lazydfu-1.19-1.0.2.jar  已加入任务列表
+[11:25:47.143] [Loader] 加载器 下载文件 状态改变：Loading
+[11:25:47.200] [Download] lazydfu-1.19-1.0.2.jar 978#：开始，起始点 0，https://media.forgecdn.net/files/4327/266/lazydfu-1.19-1.0.2.jar
+[11:25:47.363] [Download] lazydfu-1.19-1.0.2.jar：文件大小 14972 B（14.6 K）
+[11:25:47.364] [Download] lazydfu-1.19-1.0.2.jar：已完成，剩余文件 0
+[11:25:47.364] [Loader] 加载器 下载文件 状态改变：Finished
+[11:25:47.364] [Loader] 加载器 Mod 下载：lazydfu-1.19-1.0.2.jar  状态改变：Finished
+[11:25:47.400] [UI] 弹出提示：Mod 下载：lazydfu-1.19-1.0.2.jar 成功！
+[11:25:47.400] [Taskbar] Mod 下载：lazydfu-1.19-1.0.2.jar  已移出任务列表
+[11:26:07.529] [Control] 按下图标按钮：BtnTitleInner
+[11:26:07.529] [Control] 切换主要页面：Download, -1
+[11:26:12.228] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[11:26:12.229] [Comp] 工程列表搜索原始文本：starlight
+[11:26:12.229] [Comp] 工程列表搜索最终文本：starlight
+[11:26:12.229] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=starlight
+[11:26:12.229] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=starlight，超时 10000ms，要求 json
+[11:26:12.229] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=starlight&facets=[["project_type:mod"]]
+[11:26:12.229] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=starlight&facets=[["project_type:mod"]]，超时 10000ms，要求 json
+[11:26:12.758] [Comp] 从 Modrinth 获取到了 13 个工程（已获取 13 个，共 13 个）
+[11:26:12.866] [Comp] 从 CurseForge 获取到了 10 个工程（已获取 10 个，共 10 个）
+[11:26:12.866] [Comp] 将 Starlight (Fabric) (starlight) 与 Starlight (Fabric) (starlight) 认定为相似工程
+[11:26:12.866] [Comp] 将 Starlight (Forge) (starlight-forge) 与 Starlight (Forge) (starlight-forge) 认定为相似工程
+[11:26:12.867] [Comp] 去重、筛选后累计新增结果 20 个
+[11:26:12.867] [Comp] 总结果数需求最少 40 个，仅获得了 20 个
+[11:26:12.867] [Comp] 无法继续加载，将强制结束
+[11:26:12.869] [Comp] 开始可视化 Mod 列表，已储藏 20 个结果，当前在第 1 页
+[11:26:12.879] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/427/88/256/256/637658395689610558.png
+[11:26:12.880] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/432/789/256/256/637670638359989351.png
+[11:26:12.881] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/471/370/256/256/637759564933914503.png
+[11:26:12.883] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/365/309/256/256/637531585006155817.png
+[11:26:12.884] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/553/992/256/256/637895365920633416.png
+[11:26:12.885] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/823/812/256/256/638208444202677755.png
+[11:26:12.886] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/816/569/256/256/638193700804855611.png
+[11:26:12.887] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/813/63/256/256/638187221929635746.jpeg
+[11:26:12.888] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/846/89/256/256/638244598879432736.png
+[11:26:12.889] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/894/369/256/256/638337925672472725.png
+[11:26:12.891] [Net] 直接下载文件：https://cdn.modrinth.com/data/gbit8m82/f20463d919afc8356e7d5ab1b858a134d527a9d9.png
+[11:26:12.893] [Net] 直接下载文件：https://cdn.modrinth.com/data/XOanfTW3/icon.png
+[11:26:12.894] [Net] 直接下载文件：https://cdn.modrinth.com/data/yUrlMmhx/d9e0f17c4cd6529977b6f556b6c0204bc116fcf8.png
+[11:26:12.895] [Net] 直接下载文件：https://cdn.modrinth.com/data/vPdNzcQp/590f006712cb907730e1280a40cea1947af7e9a0.png
+[11:26:12.896] [Net] 直接下载文件：https://cdn.modrinth.com/data/df4EzLrt/icon.png
+[11:26:12.897] [Net] 直接下载文件：https://cdn.modrinth.com/data/PnjDxVXE/21ec8465ca6caed19061d79c233d5db657d36028.png
+[11:26:12.898] [Net] 直接下载文件：https://cdn.modrinth.com/data/2G5vKOlk/fbf129a71c521cef5332e66c48d22654b4791392.png
+[11:26:12.899] [Net] 直接下载文件：https://cdn.modrinth.com/data/JJ2UO8yC/0cc8b62ffb490db23d63e483cddb09125d03173a.png
+[11:26:12.926] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[11:26:15.273] [Control] 切换主要页面：CompDetail, 0
+[11:26:15.273] [Control] 按下资源工程列表项：星光
+[11:26:15.465] [Loader] 加载器 Comp File 状态改变：Loading
+[11:26:15.465] [Comp] 开始获取文件列表：526854
+[11:26:15.465] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 15000
+[11:26:16.475] [Loader] 加载器 Comp File 状态改变：Finished
+[11:26:17.922] [Control] 展开卡片：1.19.2
+[11:26:18.702] [Control] 按下单击列表项：Starlight 1.1.1 1.19.x (Forge)
+[11:26:18.702] [Comp] 允许 Forge：True，允许 Fabric：False
+[11:26:18.702] [Comp] 使用上次下载时的文件夹作为默认下载位置
+[11:26:20.030] [UI] 选择文件返回：D:\Games\MC\Moyu Delight\.minecraft\mods\starlight-1.1.1+forge.cf5b10b.jar
+[11:26:20.030] [Loader] 加载器 Mod 下载：Starlight 1.1.1 1.19.x (Forge)  状态改变：Loading
+[11:26:20.030] [Taskbar] Mod 下载：Starlight 1.1.1 1.19.x (Forge)  已加入任务列表
+[11:26:20.030] [Loader] 加载器 下载文件 状态改变：Loading
+[11:26:20.105] [Download] starlight-1.1.1+forge.cf5b10b.jar 1189#：开始，起始点 0，https://media.forgecdn.net/files/3836/16/starlight-1.1.1%2Bforge.cf5b10b.jar
+[11:26:20.260] [Download] starlight-1.1.1+forge.cf5b10b.jar：文件大小 110720 B（108 K）
+[11:26:20.387] [Download] starlight-1.1.1+forge.cf5b10b.jar：已完成，剩余文件 0
+[11:26:20.387] [Loader] 加载器 下载文件 状态改变：Finished
+[11:26:20.387] [Loader] 加载器 Mod 下载：Starlight 1.1.1 1.19.x (Forge)  状态改变：Finished
+[11:26:20.396] [UI] 弹出提示：Mod 下载：Starlight 1.1.1 1.19.x (Forge) 成功！
+[11:26:20.396] [Taskbar] Mod 下载：Starlight 1.1.1 1.19.x (Forge)  已移出任务列表
+[11:26:20.908] [Control] 按下图标按钮：BtnTitleInner
+[11:26:20.909] [Control] 切换主要页面：Download, -1
+[11:27:00.207] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[11:27:00.208] [Comp] 工程列表搜索原始文本：yeetus
+[11:27:00.208] [Comp] 工程列表搜索最终文本：yeetus
+[11:27:00.208] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=yeetus
+[11:27:00.208] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=yeetus，超时 10000ms，要求 json
+[11:27:00.208] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=yeetus&facets=[["project_type:mod"]]
+[11:27:00.208] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=yeetus&facets=[["project_type:mod"]]，超时 10000ms，要求 json
+[11:27:00.774] [Comp] 从 CurseForge 获取到了 1 个工程（已获取 1 个，共 1 个）
+[11:27:00.781] [Comp] 从 Modrinth 获取到了 2 个工程（已获取 2 个，共 2 个）
+[11:27:00.782] [Comp] 将 Yeetus Experimentus (yeetus-experimentus) 与 Yeetus Experimentus (yeetusexperimentus) 认定为相似工程
+[11:27:00.782] [Comp] 去重、筛选后累计新增结果 2 个
+[11:27:00.782] [Comp] 总结果数需求最少 40 个，仅获得了 2 个
+[11:27:00.782] [Comp] 无法继续加载，将强制结束
+[11:27:00.782] [Comp] 开始可视化 Mod 列表，已储藏 2 个结果，当前在第 1 页
+[11:27:00.793] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/561/302/256/256/637913385213961485.png
+[11:27:00.795] [Net] 直接下载文件：https://cdn.modrinth.com/data/Xt7qZAZo/b11c3e8f5e6619231e3c97784d5dc5a2c83dad6a.png
+[11:27:00.816] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[11:27:02.618] [Control] 切换主要页面：CompDetail, 0
+[11:27:02.618] [Control] 按下资源工程列表项：Yeetus Experimentus
+[11:27:02.774] [Loader] 加载器 Comp File 状态改变：Loading
+[11:27:02.774] [Comp] 开始获取文件列表：635427
+[11:27:02.774] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 15000
+[11:27:03.503] [Loader] 加载器 Comp File 状态改变：Finished
+[11:27:05.191] [Control] 展开卡片：1.19.2
+[11:27:05.742] [Report] FPS 0, 动画 15, 下载中 0（0 B/s）
+[11:27:05.932] [Control] 按下单击列表项：yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar
+[11:27:05.932] [Comp] 允许 Forge：True，允许 Fabric：False
+[11:27:05.932] [Comp] 使用上次下载时的文件夹作为默认下载位置
+[11:27:06.811] [UI] 选择文件返回：D:\Games\MC\Moyu Delight\.minecraft\mods\yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar
+[11:27:06.811] [Loader] 加载器 Mod 下载：yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar  状态改变：Loading
+[11:27:06.811] [Taskbar] Mod 下载：yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar  已加入任务列表
+[11:27:06.811] [Loader] 加载器 下载文件 状态改变：Loading
+[11:27:06.890] [Download] yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar 1348#：开始，起始点 0，https://media.forgecdn.net/files/3909/789/yeetusexperimentus-1.0.1-build.2%2Bmc1.19.1.jar
+[11:27:07.040] [Download] yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar：文件大小 5869 B（5.73 K）
+[11:27:07.047] [Download] yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar：已完成，剩余文件 0
+[11:27:07.047] [Loader] 加载器 下载文件 状态改变：Finished
+[11:27:07.047] [Loader] 加载器 Mod 下载：yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar  状态改变：Finished
+[11:27:07.061] [UI] 弹出提示：Mod 下载：yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar 成功！
+[11:27:07.061] [Taskbar] Mod 下载：yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar  已移出任务列表
+[11:27:07.355] [Report] FPS 0, 动画 11, 下载中 0（10.3 K/s）
+[11:27:17.497] [Control] 按下图标按钮：BtnTitleInner
+[11:27:17.498] [Control] 切换主要页面：Download, -1
+[11:27:18.557] [Control] 按下单选按钮：启动
+[11:27:18.557] [Control] 切换主要页面：Launch, -1
+[11:27:19.540] [Control] 按下按钮：启动游戏
+[11:27:19.541] [Loader] 加载器 Loader Launch 状态改变：Loading
+[11:27:19.562] [Launch] 预检测已通过
+[11:27:19.564] [Download] 开始后台更新资源文件索引
+[11:27:19.564] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[11:27:19.565] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[11:27:19.566] [Loader] 加载器 登录 状态改变：Waiting
+[11:27:19.566] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[11:27:19.566] [Loader] 加载器 获取 Java 状态改变：Loading
+[11:27:19.566] [Download] 版本 Moyu Delight 对应的资源文件索引为 1.19
+[11:27:19.567] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[11:27:19.567] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[11:27:19.567] [Loader] 加载器 登录 状态改变：Loading
+[11:27:19.567] [Loader] 加载器 补全文件 状态改变：Loading
+[11:27:19.567] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[11:27:19.567] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[11:27:19.567] [Launch] 登录加载已开始
+[11:27:19.567] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[11:27:19.567] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[11:27:19.567] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[11:27:19.567] [Launch] 登录方式：正版（MorningKaze）
+[11:27:19.567] [Launch] 微软登录完成
+[11:27:19.567] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[11:27:19.567] [Taskbar] Minecraft 启动 已加入任务列表
+[11:27:19.568] [Download] 版本 Moyu Delight 对应的资源文件索引为 1.19
+[11:27:19.568] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[11:27:19.572] [Java] 开始完全遍历查找：D:\Games\MC\Moyu Delight\
+[11:27:19.576] [Java] 开始完全遍历查找：D:\Games\MC\Moyu Delight\.minecraft\
+[11:27:19.578] [Launch] 登录加载已结束
+[11:27:19.578] [Loader] 加载器 登录 状态改变：Finished
+[11:27:19.578] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[11:27:19.578] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[11:27:19.578] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[11:27:19.578] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[11:27:19.581] [Java] 开始完全遍历查找：D:\Games\MC\Moyu Delight\.minecraft\versions\Moyu Delight\
+[11:27:19.581] [Java] 排序后的 Java 优先顺序：
+[11:27:19.581] [Java]  - JDK 17 (17.0.2)，64 位：D:\Games\MC\jdk-17.0.2\bin\
+[11:27:19.583] [System] 执行外部命令并等待返回结果：D:\Games\MC\jdk-17.0.2\bin\java.exe -version
+[11:27:19.627] [Minecraft] 获取支持库列表：Moyu Delight
+[11:27:19.641] [Download] 1.19.json 1501#：开始，起始点 0，https://download.mcbbs.net/v1/packages/a9c8b05a8082a65678beda6dfa2b8f21fa627bce/1.19.json
+[11:27:19.702] [Download] 1.19.json：文件大小 385608 B（377 K）
+[11:27:19.732] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[11:27:19.732] [Loader] 加载器 下载资源文件 状态改变：Loading
+[11:27:19.732] [Loader] 加载器 下载资源文件 状态改变：Finished
+[11:27:19.732] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[11:27:19.756] [Java] 最终选定的 Java：JDK 17 (17.0.2)，64 位：D:\Games\MC\jdk-17.0.2\bin\
+[11:27:19.756] [Launch] 选择的 Java：JDK 17 (17.0.2)，64 位：D:\Games\MC\jdk-17.0.2\bin\
+[11:27:19.756] [Loader] 加载器 获取 Java 状态改变：Finished
+[11:27:19.848] [Download] 1.19.json：已完成，剩余文件 0
+[11:27:19.848] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[11:27:19.848] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[11:27:19.849] [Launch] 后台更新资源文件索引成功：C:\Users\mgKze\AppData\Local\Temp\PCL\Cache\1.19.json
+[11:27:19.849] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[11:27:19.849] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[11:27:20.431] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[11:27:20.431] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[11:27:20.432] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[11:27:20.432] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[11:27:20.432] [Loader] 加载器 补全文件 状态改变：Finished
+[11:27:20.432] [Loader] 加载器 获取启动参数 状态改变：Loading
+[11:27:20.434] [Launch] 开始获取 Minecraft 启动参数
+[11:27:20.434] [Launch] 获取新版 JVM 参数
+[11:27:20.436] [Launch] 当前剩余内存：23G
+[11:27:20.439] [System] 获取资源：JavaWrapper
+[11:27:20.439] [Java] 已释放 Java Wrapper：C:\Users\mgKze\AppData\Roaming\PCL\JavaWrapper.jar
+[11:27:20.439] [Launch] 新版 JVM 参数获取成功：
+[11:27:20.439] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.5/asm-9.5.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx14438m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -Doolloo.jlw.tmpdir="C:\Users\mgKze\AppData\Roaming\PCL" -jar "C:\Users\mgKze\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher
+[11:27:20.439] [Launch] 获取新版 Game 参数
+[11:27:20.440] [Launch] 新版 Game 参数获取成功
+[11:27:20.442] [Minecraft] 获取支持库列表：Moyu Delight
+[11:27:20.448] [Launch] Minecraft 启动参数：
+[11:27:20.449] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="D:\Games\MC\Moyu Delight\.minecraft\versions\Moyu Delight\Moyu Delight-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=308 -cp "D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-common\4.1.77.Final\netty-common-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-buffer\4.1.77.Final\netty-buffer-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-codec\4.1.77.Final\netty-codec-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-handler\4.1.77.Final\netty-handler-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-resolver\4.1.77.Final\netty-resolver-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-transport\4.1.77.Final\netty-transport-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.77.Final\netty-transport-native-unix-common-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.77.Final\netty-transport-classes-epoll-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\datafixerupper\5.0.28\datafixerupper-5.0.28.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\authlib\3.11.49\authlib-3.11.49.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\text2speech\1.16.7\text2speech-1.16.7.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\cpw\mods\securejarhandler\2.1.4\securejarhandler-2.1.4.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\ow2\asm\asm\9.5\asm-9.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\ow2\asm\asm-commons\9.5\asm-commons-9.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\ow2\asm\asm-tree\9.5\asm-tree-9.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\ow2\asm\asm-util\9.5\asm-util-9.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\ow2\asm\asm-analysis\9.5\asm-analysis-9.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\eventbus\6.0.3\eventbus-6.0.3.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\forgespi\6.0.0\forgespi-6.0.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\cpw\mods\modlauncher\10.0.8\modlauncher-10.0.8.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\JarJarSelector\0.3.16\JarJarSelector-0.3.16.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\JarJarMetadata\0.3.16\JarJarMetadata-0.3.16.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\cpw\mods\bootstraplauncher\1.1.2\bootstraplauncher-1.1.2.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\JarJarFileSystems\0.3.16\JarJarFileSystems-0.3.16.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\fmlloader\1.19.2-43.3.0\fmlloader-1.19.2-43.3.0.jar;D:\Games\MC\Moyu Delight\.minecraft\versions\Moyu Delight\Moyu Delight.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,"Moyu Delight".jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory="D:\Games\MC\Moyu Delight\.minecraft\libraries" -p "D:\Games\MC\Moyu Delight\.minecraft\libraries"/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/org/ow2/asm/asm/9.5/asm-9.5.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx14438m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -Doolloo.jlw.tmpdir="C:\Users\mgKze\AppData\Roaming\PCL" -jar "C:\Users\mgKze\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher --username MorningKaze --version "Moyu Delight" --gameDir "D:\Games\MC\Moyu Delight\.minecraft" --assetsDir "D:\Games\MC\Moyu Delight\.minecraft\assets" --assetIndex 1.19 --uuid 957c17e6bb4e4d129dbe8cf4e02958ca --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXevAno --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 --launchTarget forgeclient --fml.forgeVersion 43.3.0 --fml.mcVersion 1.19.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220805.130853 
+[11:27:20.449] [Loader] 加载器 获取启动参数 状态改变：Finished
+[11:27:20.452] [Loader] 加载器 解压文件 状态改变：Loading
+[11:27:20.455] [Launch] 正在解压 Natives 文件
+[11:27:20.455] [Loader] 加载器 解压文件 状态改变：Finished
+[11:27:20.484] [Loader] 加载器 预启动处理 状态改变：Loading
+[11:27:20.492] [Launch] 已更新 launcher_profiles.json
+[11:27:20.496] [Launch] 当前语言为 zh_cn，无需修改
+[11:27:20.496] [Loader] 加载器 预启动处理 状态改变：Finished
+[11:27:20.513] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[11:27:20.515] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[11:27:20.540] [Loader] 加载器 启动进程 状态改变：Loading
+[11:27:20.557] [Launch] 已启动游戏进程：D:\Games\MC\jdk-17.0.2\bin\javaw.exe
+[11:27:20.557] [Loader] 加载器 启动进程 状态改变：Finished
+[11:27:20.587] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[11:27:20.588] [Launch] 
+[11:27:20.588] [Launch] ~ 基础参数 ~
+[11:27:20.588] [Launch] PCL 版本：Release 2.6.1000 (308)
+[11:27:20.588] [Launch] 游戏版本：1.19.2, Forge 43.3.0（19.2）
+[11:27:20.588] [Launch] 资源版本：1.19
+[11:27:20.588] [Launch] 版本继承：无
+[11:27:20.588] [Launch] 分配的内存：14.1 GB（14438 MB）
+[11:27:20.588] [Launch] MC 文件夹：D:\Games\MC\Moyu Delight\.minecraft\
+[11:27:20.588] [Launch] 版本文件夹：D:\Games\MC\Moyu Delight\.minecraft\versions\Moyu Delight\
+[11:27:20.588] [Launch] 版本隔离：False
+[11:27:20.588] [Launch] HMCL 格式：False
+[11:27:20.588] [Launch] Java 信息：JDK 17 (17.0.2)，64 位：D:\Games\MC\jdk-17.0.2\bin\
+[11:27:20.588] [Launch] 环境变量：未设置
+[11:27:20.588] [Launch] 
+[11:27:20.588] [Launch] ~ 登录参数 ~
+[11:27:20.588] [Launch] 玩家用户名：MorningKaze
+[11:27:20.588] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXevAno
+[11:27:20.588] [Launch] ClientToken：957c17e6bb4e4d129dbe8cf4e02958ca
+[11:27:20.588] [Launch] UUID：957c17e6bb4e4d129dbe8cf4e02958ca
+[11:27:20.588] [Launch] 登录方式：Microsoft
+[11:27:20.588] [Launch] 
+[11:27:20.590] [Launch] [12400] 开始 Minecraft 日志监控
+[11:27:20.590] [Launch] [全局] 出现运行中的 Minecraft
+[11:27:20.816] [Launch] [12400] 日志 1/5：已出现日志输出
+[11:27:31.081] [Control] 按下按钮：取消
+[11:27:31.081] [Loader] 加载器 Minecraft 启动 状态改变：Aborted
+[11:27:31.081] [Launch] 已取消启动
+[11:27:31.082] [Loader] 加载器 等待游戏窗口出现 状态改变：Aborted
+[11:27:31.082] [Launch] [全局] 已无运行中的 Minecraft
+[11:27:31.082] [Launch] [12400] 尝试强制结束 Minecraft 进程
+[11:27:31.082] [Launch] [12400] 已强制结束 Minecraft 进程
+[11:27:31.238] [Loader] 加载器 Loader Launch 状态改变：Finished
+[11:27:31.253] [Launch] [12400] Minecraft 日志监控已退出
+[11:27:31.284] [UI] 弹出提示：已取消启动！
+[11:27:34.300] [Control] 按下按钮：版本设置
+[11:27:34.326] [Control] 切换主要页面：VersionSetup, 0
+[11:27:36.051] [Control] 按下图标按钮：BtnTitleInner
+[11:27:36.052] [Control] 切换主要页面：Launch, -1
+[11:27:37.030] [Control] 按下单选按钮：下载
+[11:27:37.030] [Control] 切换主要页面：Download, -1
+[11:27:37.948] [Control] 按下单选列表项：整合包
+[11:27:37.957] [Loader] 加载器 CompProject ModPack 状态改变：Loading
+[11:27:37.957] [Comp] 工程列表搜索原始文本：
+[11:27:37.957] [Comp] 工程列表搜索最终文本：
+[11:27:37.957] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=4471&categoryId=0
+[11:27:37.957] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=4471&categoryId=0，超时 10000ms，要求 json
+[11:27:37.957] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:modpack"]]
+[11:27:37.957] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:modpack"]]，超时 10000ms，要求 json
+[11:27:38.175] [Report] FPS 0, 动画 11, 下载中 0（0 B/s）
+[11:27:38.669] [Comp] 从 Modrinth 获取到了 40 个工程（已获取 40 个，共 1947 个）
+[11:27:38.902] [Control] 按下单选列表项：Mod
+[11:27:39.239] [Comp] 从 CurseForge 获取到了 40 个工程（已获取 40 个，共 67213 个）
+[11:27:39.239] [Comp] 将 Fabulously Optimized (fabulously-optimized) 与 Fabulously Optimized (fabulously-optimized) 认定为相似工程
+[11:27:39.239] [Comp] 去重、筛选后累计新增结果 79 个
+[11:27:39.241] [Comp] 开始可视化整合包列表，已储藏 79 个结果，当前在第 1 页
+[11:27:39.243] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/468/243/256/256/637751369169569212.png
+[11:27:39.252] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/279/234/256/256/637276853291457748.png
+[11:27:39.253] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/199/573/256/256/636907930795697123.png
+[11:27:39.254] [Net] 直接下载文件：https://cdn.modrinth.com/data/5FFgwNNP/e7f9ee2e9d361623847853fe2ddce42f519ee64f.png
+[11:27:39.258] [Net] 直接下载文件：https://cdn.modrinth.com/data/BYfVnHa7/7f8dc20fc0edd29fd95819a6f40938be0b9cadfa.png
+[11:27:39.259] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/902/339/256/256/638350403928080320.png
+[11:27:39.261] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/144/220/256/256/636554450588038771.png
+[11:27:39.262] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/592/944/256/256/637965415571102225.png
+[11:27:39.263] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/147/67/256/256/636574428512291945.png
+[11:27:39.264] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/593/71/256/256/637965640919658046.png
+[11:27:39.265] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/388/926/256/256/637581040113975390.png
+[11:27:39.267] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/780/552/256/256/638125961291118791_animated.gif
+[11:27:39.268] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/147/482/256/256/636576924791375629.png
+[11:27:39.269] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/594/10/256/256/637967185605583019.png
+[11:27:39.270] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/342/120/256/256/637485779500419856.jpeg
+[11:27:39.271] [Net] 直接下载文件：https://cdn.modrinth.com/data/ch7UHY2J/cf0150ba8d6c01144974709a27b23bba93c0fc9e.png
+[11:27:39.272] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/651/140/256/256/638051446127306822.png
+[11:27:39.273] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/902/338/256/256/638350403793040080.png
+[11:27:39.275] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/595/284/256/256/637969851390579025.png
+[11:27:39.276] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/286/772/256/256/637305737753885398.png
+[11:27:39.278] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/298/994/256/256/637351626050046394.png
+[11:27:39.279] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/342/91/256/256/637485703554418199.png
+[11:27:39.280] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/485/618/256/256/637786105420601729.png
+[11:27:39.281] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/888/755/256/256/638327498751262469.png
+[11:27:39.282] [Net] 直接下载文件：https://cdn.modrinth.com/data/paoFU4Vl/216ea22fbd1694408792ef2302f0d684fc6d2188.png
+[11:27:39.283] [Net] 直接下载文件：https://cdn.modrinth.com/data/bxWt0XMV/icon.jpg
+[11:27:39.284] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/450/731/256/256/637712078711696255.png
+[11:27:39.286] [Net] 直接下载文件：https://cdn.modrinth.com/data/fgUCZ5nU/11dcbe1c82b94f810c6c612a51f91e24cdc4e4c1.png
+[11:27:39.288] [Net] 直接下载文件：https://cdn.modrinth.com/data/BYN9yKrV/a741a66ac91132214d899ed134fc76dd4c8298ed.png
+[11:27:39.289] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/585/168/256/256/637951766687771704.png
+[11:27:39.290] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/494/814/256/256/637807169632525273.png
+[11:27:39.291] [Net] 直接下载文件：https://cdn.modrinth.com/data/1Fv3GHYS/6b0593ef9e15ed98d084b72253e4275519964edf.jpg
+[11:27:39.292] [Net] 直接下载文件：https://cdn.modrinth.com/data/7zBMp9RO/1c6a97296c851f38c00a4697c8cfbdd511ef25e7.png
+[11:27:39.293] [Net] 直接下载文件：https://cdn.modrinth.com/data/vwgtbO0y/cc316288962439c7c246b3d5edbc8715fb021483.png
+[11:27:39.295] [Net] 直接下载文件：https://cdn.modrinth.com/data/p87Jiw2q/icon.png
+[11:27:39.296] [Net] 直接下载文件：https://cdn.modrinth.com/data/xldzprsQ/411e361182e4c0643128f68af08f427f2797da59.png
+[11:27:39.298] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/883/255/256/256/638316241239070589.png
+[11:27:39.299] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/818/920/256/256/638198258817539212.png
+[11:27:39.301] [Net] 直接下载文件：https://cdn.modrinth.com/data/mHMxXbIu/e7f9ee2e9d361623847853fe2ddce42f519ee64f.png
+[11:27:39.302] [Net] 直接下载文件：https://cdn.modrinth.com/data/uvlobdYF/c14f84dad3fa1c1d234c387b730195211efa6c7c.jpeg
+[11:27:39.335] [Loader] 加载器 CompProject ModPack 状态改变：Finished
+[11:27:40.935] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[11:27:40.935] [Comp] 工程列表搜索原始文本：rei
+[11:27:40.935] [Comp] 工程列表搜索最终文本：rei
+[11:27:40.935] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=rei
+[11:27:40.935] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=rei，超时 10000ms，要求 json
+[11:27:40.936] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=rei&facets=[["project_type:mod"]]
+[11:27:40.936] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=rei&facets=[["project_type:mod"]]，超时 10000ms，要求 json
+[11:27:41.496] [Comp] 从 Modrinth 获取到了 40 个工程（已获取 40 个，共 73 个）
+[11:27:42.102] [Comp] 从 CurseForge 获取到了 40 个工程（已获取 40 个，共 78 个）
+[11:27:42.103] [Comp] 将 REI Plugin Compatibilities (roughly-enough-items-hacks) 与 REI Plugin Compatibilities (REIPC) (roughly-enough-items-hacks) 认定为相似工程
+[11:27:42.103] [Comp] 将 Reimagined World Menu (reimagined-world-menu) 与 Reimagined World Menu (reimagined-world-menu) 认定为相似工程
+[11:27:42.103] [Comp] 将 REI Cheat Keybind (rei-cheat-keybind) 与 REI Cheat Keybind (rei-cheat-keybind) 认定为相似工程
+[11:27:42.104] [Comp] 将 Access REI Recipes From A Block (ARRFAB) (arrfab) 与 Access REI Recipes From A Block (ARRFAB) (arrfab) 认定为相似工程
+[11:27:42.105] [Comp] 将 KubeJS REI Runtime (kubejs-rei-runtime) 与 KubeJS REI Runtime (kubejs-rei-runtime) 认定为相似工程
+[11:27:42.105] [Comp] 将 Horizontal Reinforced Deepslate (horizontal-reinforced-deepslate) 与 Horizontal Reinforced Deepslate (horizontal-reinforced-deepslate) 认定为相似工程
+[11:27:42.106] [Comp] 将 CreateFabric&REIBugFix (createfabricreibugfix) 与 CreateFabric&REIBugFix (createfabricreibugfix) 认定为相似工程
+[11:27:42.106] [Comp] 将 Food Expansion: Reimagined (food-expansion-reimagined) 与 Food Expansion: Reimagined (food-expansion-reimagined) 认定为相似工程
+[11:27:42.106] [Comp] 将 Kintsugi - Enchanting Reimagined (kintsugi) 与 Kintsugi - Enchanting Reimagined (kintsugi) 认定为相似工程
+[11:27:42.107] [Comp] 将 Plants vs Zombies: Reimagined (plants-vs-zombies-reimagined) 与 Plants vs Zombies: Reimagined (plants-vs-zombies-reimagined-mod) 认定为相似工程
+[11:27:42.107] [Comp] 将 Roughly Enough Items (REI) (rei) 与 Roughly Enough Items Fabric/Forge (REI) (roughly-enough-items) 认定为相似工程
+[11:27:42.107] [Comp] 将 Roughly Enough Items Server Component (REI-SC) (roughly-enough-items-server-component) 与 Roughly Enough Items Server Component (REISC) (roughly-enough-items-server-component) 认定为相似工程
+[11:27:42.107] [Comp] 去重、筛选后累计新增结果 66 个
+[11:27:42.111] [Comp] 开始可视化 Mod 列表，已储藏 66 个结果，当前在第 1 页
+[11:27:42.121] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/436/130/256/256/637677045836688458.png
+[11:27:42.132] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/436/132/256/256/637677048992060025.png
+[11:27:42.133] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/37/8/256/256/635946287318570594.png
+[11:27:42.134] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/426/650/256/256/637657380468740930.png
+[11:27:42.140] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/436/131/256/256/637677047895540963.png
+[11:27:42.144] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/778/338/256/256/638122338891899891.png
+[11:27:42.151] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/521/599/256/256/637840950148515846.png
+[11:27:42.152] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/811/482/256/256/638184161918766202.png
+[11:27:42.154] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/282/25/256/256/637287701215436754.png
+[11:27:42.158] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/16/275/256/256/635643833767270294.png
+[11:27:42.159] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/497/3/256/256/637812468808516536.png
+[11:27:42.160] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/298/143/256/256/637347746450324437.png
+[11:27:42.161] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/262/566/256/256/637221270156311691.png
+[11:27:42.162] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/139/530/256/256/636528863559283103.png
+[11:27:42.171] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/651/191/256/256/638051549599423007.png
+[11:27:42.172] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/506/233/256/256/637824423557821613.png
+[11:27:42.173] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/667/594/256/256/638061952072611065.png
+[11:27:42.178] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/621/209/256/256/638011321485080572.png
+[11:27:42.179] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/800/407/256/256/638163670409689630.png
+[11:27:42.180] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/261/394/256/256/637217617603418216.png
+[11:27:42.181] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/288/324/256/256/637311217095604145.png
+[11:27:42.189] [Net] 直接下载文件：https://cdn.modrinth.com/data/Vo259FZB/d4e5ee5d215ec80eb8cd40d67cd317cdcbc77916.png
+[11:27:42.191] [Net] 直接下载文件：https://cdn.modrinth.com/data/7mDs3rJ2/d4e5ee5d215ec80eb8cd40d67cd317cdcbc77916.png
+[11:27:42.192] [Net] 直接下载文件：https://cdn.modrinth.com/data/bKooWLMf/d4e5ee5d215ec80eb8cd40d67cd317cdcbc77916.png
+[11:27:42.193] [Net] 直接下载文件：https://cdn.modrinth.com/data/YeFubJeF/d4e5ee5d215ec80eb8cd40d67cd317cdcbc77916.png
+[11:27:42.194] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/867/771/256/256/638281491550028190.png
+[11:27:42.195] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/480/259/256/256/637778628670324544.png
+[11:27:42.196] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/772/248/256/256/638112187085025193.png
+[11:27:42.197] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/887/604/256/256/638325163547497229.png
+[11:27:42.218] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[11:27:46.944] [Control] 切换主要页面：CompDetail, 0
+[11:27:46.944] [Control] 按下资源工程列表项：REI物品管理器
+[11:27:47.119] [Loader] 加载器 Comp File 状态改变：Loading
+[11:27:47.119] [Comp] 开始获取文件列表：310111
+[11:27:47.119] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 15000
+[11:27:47.977] [Control] 按下按钮：转到 MC 百科
+[11:27:47.978] [System] 正在打开网页：https://www.mcmod.cn/class/1674.html
+[11:27:48.104] [Comp] 310111 文件列表中还需要获取信息的前置 Mod：319057，419697
+[11:27:48.104] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods），最大超时 15000
+[11:28:03.639] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods），最大超时 25000
+[11:28:04.364] [Loader] 加载器 Comp File 状态改变：Finished
+[11:28:24.292] [Control] 按下图标按钮：BtnTitleInner
+[11:28:24.292] [Control] 切换主要页面：Download, -1
+[11:28:27.969] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[11:28:27.970] [Comp] 工程列表搜索原始文本：rei-sc
+[11:28:27.970] [Comp] 工程列表搜索最终文本：rei-sc
+[11:28:27.970] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=rei-sc
+[11:28:27.970] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=rei-sc，超时 10000ms，要求 json
+[11:28:27.970] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=rei-sc&facets=[["project_type:mod"]]
+[11:28:27.970] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=rei-sc&facets=[["project_type:mod"]]，超时 10000ms，要求 json
+[11:28:28.491] [Comp] 从 Modrinth 获取到了 27 个工程（已获取 27 个，共 27 个）
+[11:28:28.713] [Comp] 从 CurseForge 获取到了 12 个工程（已获取 12 个，共 12 个）
+[11:28:28.713] [Comp] 将 REI Plugin Compatibilities (roughly-enough-items-hacks) 与 REI Plugin Compatibilities (REIPC) (roughly-enough-items-hacks) 认定为相似工程
+[11:28:28.714] [Comp] 将 REI Cheat Keybind (rei-cheat-keybind) 与 REI Cheat Keybind (rei-cheat-keybind) 认定为相似工程
+[11:28:28.714] [Comp] 将 Access REI Recipes From A Block (ARRFAB) (arrfab) 与 Access REI Recipes From A Block (ARRFAB) (arrfab) 认定为相似工程
+[11:28:28.714] [Comp] 将 KubeJS REI Runtime (kubejs-rei-runtime) 与 KubeJS REI Runtime (kubejs-rei-runtime) 认定为相似工程
+[11:28:28.714] [Comp] 将 Roughly Enough Items (REI) (rei) 与 Roughly Enough Items Fabric/Forge (REI) (roughly-enough-items) 认定为相似工程
+[11:28:28.714] [Comp] 去重、筛选后累计新增结果 31 个
+[11:28:28.714] [Comp] 总结果数需求最少 40 个，仅获得了 31 个
+[11:28:28.714] [Comp] 无法继续加载，将强制结束
+[11:28:28.717] [Comp] 开始可视化 Mod 列表，已储藏 31 个结果，当前在第 1 页
+[11:28:28.723] [Net] 直接下载文件：https://cdn.modrinth.com/data/OM4ZYSws/icon.png
+[11:28:28.725] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/186/663/256/256/636835071582366884.png
+[11:28:28.728] [Net] 直接下载文件：https://cdn.modrinth.com/data/kVAQyCLX/icon.png
+[11:28:28.748] [Net] 直接下载文件：https://cdn.modrinth.com/data/njGhQ4fN/icon.png
+[11:28:28.760] [Net] 直接下载文件：https://cdn.modrinth.com/data/5hppfLUZ/2595015f94eaecea60b358d14be50e664fbf9d56.png
+[11:28:28.762] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/886/983/256/256/638323824226391279.png
+[11:28:28.773] [Net] 直接下载文件：https://cdn.modrinth.com/data/bzCkExiz/30322300c6b8ea1ec86475b91f870f7b5295fad6.png
+[11:28:28.775] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/782/932/256/256/638130292729455326.png
+[11:28:28.776] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/307/222/256/256/637387597775658481.png
+[11:28:28.776] [Net] 直接下载文件：https://cdn.modrinth.com/data/3ESR84kR/3262d2940ea87e5c5e33addce1f1a52d03366ded.png
+[11:28:28.777] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/301/727/256/256/637363897726035432.png
+[11:28:28.778] [Net] 直接下载文件：https://cdn.modrinth.com/data/oWx9p4ug/9bd7b3a400509676bd901e76a4185f1d81c5caed.png
+[11:28:28.778] [Net] 直接下载文件：https://cdn.modrinth.com/data/6SNkq6Ss/icon.png
+[11:28:28.779] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/234/953/256/256/637082544003105362.png
+[11:28:28.801] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[11:28:30.558] [Control] 切换主要页面：CompDetail, 0
+[11:28:30.558] [Control] 按下资源工程列表项：Roughly Enough Items Server Component
+[11:28:30.721] [Loader] 加载器 Comp File 状态改变：Loading
+[11:28:30.721] [Comp] 开始获取文件列表：OM4ZYSws
+[11:28:30.721] [Net] 获取网络结果：https://api.modrinth.com/v2/project/OM4ZYSws/version，超时 10000ms，要求 json
+[11:28:31.987] [Loader] 加载器 Comp File 状态改变：Finished
+[11:28:33.599] [Control] 展开卡片：1.19.2
+[11:28:39.828] [Control] 按下单击列表项：RoughlyEnoughItems-9.1.668-server-only.jar
+[11:28:39.828] [Comp] 允许 Forge：True，允许 Fabric：False
+[11:28:39.828] [Comp] 使用上次下载时的文件夹作为默认下载位置
+[11:28:45.147] [UI] 选择文件返回：C:\Users\mgKze\Downloads\RoughlyEnoughItems-9.1.668-server-only.jar
+[11:28:45.147] [Loader] 加载器 Mod 下载：[Forge 1.19-1.19.2] v9.1.668  状态改变：Loading
+[11:28:45.147] [Taskbar] Mod 下载：[Forge 1.19-1.19.2] v9.1.668  已加入任务列表
+[11:28:45.147] [Loader] 加载器 下载文件 状态改变：Loading
+[11:28:45.256] [Download] RoughlyEnoughItems-9.1.668-server-only.jar 2530#：开始，起始点 0，https://cdn.modrinth.com/data/OM4ZYSws/versions/y9wrACm8/RoughlyEnoughItems-9.1.668-server-only.jar
+[11:28:45.663] [Download] RoughlyEnoughItems-9.1.668-server-only.jar：文件大小 2170687 B（2.07 M）
+[11:28:46.097] [Download] RoughlyEnoughItems-9.1.668-server-only.jar 2539#：出错，该下载源不支持断点续传。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.WebException
+[11:28:46.097] [Download] RoughlyEnoughItems-9.1.668-server-only.jar 2523#：下载源被禁用（0）：https://cdn.modrinth.com/data/OM4ZYSws/versions/y9wrACm8/RoughlyEnoughItems-9.1.668-server-only.jar
+[11:28:46.098] 下载源 0 已被禁用：该下载源不支持断点续传。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.WebException
+[11:28:46.128] [Download] RoughlyEnoughItems-9.1.668-server-only.jar 2530#：中断
+[11:28:46.139] [Download] RoughlyEnoughItems-9.1.668-server-only.jar 2550#：开始，起始点 0，https://cdn.modrinth.com/data/OM4ZYSws/versions/y9wrACm8/RoughlyEnoughItems-9.1.668-server-only.jar
+[11:28:46.193] [Download] RoughlyEnoughItems-9.1.668-server-only.jar 2542#：出错，服务器无返回数据，但下载尚未完成
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+[11:28:46.303] [Download] RoughlyEnoughItems-9.1.668-server-only.jar 2547#：出错，服务器无返回数据，但下载尚未完成
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+[11:28:46.513] [Control] 按下图标按钮：BtnTitleInner
+[11:28:46.513] [Control] 切换主要页面：Download, -1
+[11:28:47.641] [Download] 速度下限已提升到 1.31 M
+[11:28:48.600] [Download] RoughlyEnoughItems-9.1.668-server-only.jar 2550#：中断
+[11:28:48.600] [Download] RoughlyEnoughItems-9.1.668-server-only.jar：已完成，剩余文件 0
+[11:28:48.600] [Loader] 加载器 下载文件 状态改变：Finished
+[11:28:48.601] [Loader] 加载器 Mod 下载：[Forge 1.19-1.19.2] v9.1.668  状态改变：Finished
+[11:28:48.633] [UI] 弹出提示：Mod 下载：[Forge 1.19-1.19.2] v9.1.668 成功！
+[11:28:48.633] [Taskbar] Mod 下载：[Forge 1.19-1.19.2] v9.1.668  已移出任务列表
+[11:28:49.575] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[11:28:49.575] [Comp] 工程列表搜索原始文本：rei
+[11:28:49.575] [Comp] 工程列表搜索最终文本：rei
+[11:28:49.575] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=rei
+[11:28:49.575] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=rei，超时 10000ms，要求 json
+[11:28:49.575] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=rei&facets=[["project_type:mod"]]
+[11:28:49.575] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=rei&facets=[["project_type:mod"]]，超时 10000ms，要求 json
+[11:28:50.262] [Comp] 从 Modrinth 获取到了 40 个工程（已获取 40 个，共 73 个）
+[11:28:50.474] [Comp] 从 CurseForge 获取到了 40 个工程（已获取 40 个，共 78 个）
+[11:28:50.475] [Comp] 将 REI Plugin Compatibilities (roughly-enough-items-hacks) 与 REI Plugin Compatibilities (REIPC) (roughly-enough-items-hacks) 认定为相似工程
+[11:28:50.475] [Comp] 将 Reimagined World Menu (reimagined-world-menu) 与 Reimagined World Menu (reimagined-world-menu) 认定为相似工程
+[11:28:50.475] [Comp] 将 REI Cheat Keybind (rei-cheat-keybind) 与 REI Cheat Keybind (rei-cheat-keybind) 认定为相似工程
+[11:28:50.476] [Comp] 将 Access REI Recipes From A Block (ARRFAB) (arrfab) 与 Access REI Recipes From A Block (ARRFAB) (arrfab) 认定为相似工程
+[11:28:50.477] [Comp] 将 KubeJS REI Runtime (kubejs-rei-runtime) 与 KubeJS REI Runtime (kubejs-rei-runtime) 认定为相似工程
+[11:28:50.477] [Comp] 将 Horizontal Reinforced Deepslate (horizontal-reinforced-deepslate) 与 Horizontal Reinforced Deepslate (horizontal-reinforced-deepslate) 认定为相似工程
+[11:28:50.478] [Comp] 将 CreateFabric&REIBugFix (createfabricreibugfix) 与 CreateFabric&REIBugFix (createfabricreibugfix) 认定为相似工程
+[11:28:50.478] [Comp] 将 Food Expansion: Reimagined (food-expansion-reimagined) 与 Food Expansion: Reimagined (food-expansion-reimagined) 认定为相似工程
+[11:28:50.479] [Comp] 将 Kintsugi - Enchanting Reimagined (kintsugi) 与 Kintsugi - Enchanting Reimagined (kintsugi) 认定为相似工程
+[11:28:50.479] [Comp] 将 Plants vs Zombies: Reimagined (plants-vs-zombies-reimagined) 与 Plants vs Zombies: Reimagined (plants-vs-zombies-reimagined-mod) 认定为相似工程
+[11:28:50.479] [Comp] 将 Roughly Enough Items (REI) (rei) 与 Roughly Enough Items Fabric/Forge (REI) (roughly-enough-items) 认定为相似工程
+[11:28:50.479] [Comp] 将 Roughly Enough Items Server Component (REI-SC) (roughly-enough-items-server-component) 与 Roughly Enough Items Server Component (REISC) (roughly-enough-items-server-component) 认定为相似工程
+[11:28:50.480] [Comp] 去重、筛选后累计新增结果 66 个
+[11:28:50.484] [Comp] 开始可视化 Mod 列表，已储藏 66 个结果，当前在第 1 页
+[11:28:50.577] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[11:29:12.606] [Control] 切换主要页面：CompDetail, 0
+[11:29:12.606] [Control] 按下资源工程列表项：REI物品管理器
+[11:29:12.787] [Loader] 加载器 Comp File 状态改变：Loading
+[11:29:12.833] [Loader] 加载器 Comp File 状态改变：Finished
+[11:29:15.014] [Control] 展开卡片：1.19.2
+[11:29:20.646] [Comp] 记录当前已展开的卡片：1.19.2
+[11:29:20.646] [Control] 切换主要页面：CompDetail, 0
+[11:29:20.646] [Control] 按下资源工程列表项：REI Plugin Compatibilities
+[11:29:20.816] [Loader] 加载器 Comp File 状态改变：Loading
+[11:29:20.816] [Comp] 开始获取文件列表：521393
+[11:29:20.816] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 15000
+[11:29:21.574] [Loader] 加载器 Comp File 状态改变：Finished
+[11:29:22.831] [Control] 展开卡片：1.19.2
+[11:29:23.082] [Control] 折叠卡片：1.19.2
+[11:29:23.537] [Control] 展开卡片：1.19.2
+[11:29:24.061] [Comp] 允许 Forge：True，允许 Fabric：False
+[11:29:24.061] [Comp] 使用上次下载时的文件夹作为默认下载位置
+[11:29:24.061] [Control] 按下单击列表项：[Forge 1.19-1.19.2] v9.0.90
+[11:29:37.248] [UI] 选择文件返回：D:\Games\MC\Moyu Delight\.minecraft\mods\REIPluginCompatibilities-forge-9.0.90.jar
+[11:29:37.248] [Loader] 加载器 Mod 下载：[Forge 1.19-1.19.2] v9.0.90  状态改变：Loading
+[11:29:37.248] [Taskbar] Mod 下载：[Forge 1.19-1.19.2] v9.0.90  已加入任务列表
+[11:29:37.248] [Loader] 加载器 下载文件 状态改变：Loading
+[11:29:37.325] [Download] REIPluginCompatibilities-forge-9.0.90.jar 2934#：开始，起始点 0，https://media.forgecdn.net/files/4837/440/REIPluginCompatibilities-forge-9.0.90.jar
+[11:29:37.488] [Download] REIPluginCompatibilities-forge-9.0.90.jar：文件大小 434675 B（424 K）
+[11:29:37.899] [Download] REIPluginCompatibilities-forge-9.0.90.jar：已完成，剩余文件 0
+[11:29:37.899] [Loader] 加载器 下载文件 状态改变：Finished
+[11:29:37.899] [Loader] 加载器 Mod 下载：[Forge 1.19-1.19.2] v9.0.90  状态改变：Finished
+[11:29:37.927] [UI] 弹出提示：Mod 下载：[Forge 1.19-1.19.2] v9.0.90 成功！
+[11:29:37.927] [Taskbar] Mod 下载：[Forge 1.19-1.19.2] v9.0.90  已移出任务列表
+[11:29:38.773] [Comp] 记录当前已展开的卡片：1.19.2
+[11:29:38.773] [Control] 切换主要页面：CompDetail, 0
+[11:29:38.773] [Control] 按下资源工程列表项：REI物品管理器
+[11:29:38.928] [Loader] 加载器 Comp File 状态改变：Loading
+[11:29:38.974] [Loader] 加载器 Comp File 状态改变：Finished
+[11:29:41.092] [Control] 展开卡片：1.19.2
+[11:29:42.598] [Control] 按下单击列表项：[Forge 1.19-1.19.2] v9.1.668
+[11:29:42.598] [Comp] 允许 Forge：True，允许 Fabric：False
+[11:29:42.598] [Comp] 使用上次下载时的文件夹作为默认下载位置
+[11:29:43.758] [UI] 选择文件返回：D:\Games\MC\Moyu Delight\.minecraft\mods\RoughlyEnoughItems-9.1.668.jar
+[11:29:43.758] [Loader] 加载器 Mod 下载：[Forge 1.19-1.19.2] v9.1.668  状态改变：Loading
+[11:29:43.759] [Taskbar] Mod 下载：[Forge 1.19-1.19.2] v9.1.668  已加入任务列表
+[11:29:43.759] [Loader] 加载器 下载文件 状态改变：Loading
+[11:29:43.842] [Download] RoughlyEnoughItems-9.1.668.jar 3122#：开始，起始点 0，https://media.forgecdn.net/files/4812/888/RoughlyEnoughItems-9.1.668.jar
+[11:29:44.277] [Download] RoughlyEnoughItems-9.1.668.jar：文件大小 2215922 B（2.11 M）
+[11:29:44.597] [Control] 按下图标按钮：BtnTitleInner
+[11:29:44.597] [Control] 切换主要页面：CompDetail, -1
+[11:29:44.755] [Loader] 加载器 Comp File 状态改变：Loading
+[11:29:44.785] [Loader] 加载器 Comp File 状态改变：Finished
+[11:29:45.033] [Report] FPS 0, 动画 21, 下载中 1（540 K/s）
+[11:29:46.654] [Control] 按下图标按钮：BtnTitleInner
+[11:29:46.654] [Control] 切换主要页面：CompDetail, -1
+[11:29:46.824] [Loader] 加载器 Comp File 状态改变：Loading
+[11:29:46.870] [Loader] 加载器 Comp File 状态改变：Finished
+[11:29:47.735] [Control] 按下图标按钮：BtnTitleInner
+[11:29:47.735] [Control] 切换主要页面：Download, -1
+[11:29:49.136] [Control] 按下单选按钮：启动
+[11:29:49.136] [Control] 切换主要页面：Launch, -1
+[11:29:50.346] [Control] 按下按钮：版本设置
+[11:29:50.350] [Control] 切换主要页面：VersionSetup, 0
+[11:29:51.073] [Control] 按下单选列表项：Mod 管理
+[11:29:51.214] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[11:29:51.214] [System] 已刷新 Mod 列表
+[11:29:51.308] Mod Class 信息不可用（D:\Games\MC\Moyu Delight\.minecraft\mods\create-structures-0.1.0.jar）：未找到 Mod 入口点
+   在 PCL.ModMod.McMod.LoadWithClass(ZipArchive Jar)
+错误类型：System.IO.FileNotFoundException
+[11:29:51.710] Mod Class 信息不可用（D:\Games\MC\Moyu Delight\.minecraft\mods\kotlinforforge-3.12.0-all.jar）：未找到 Mod 入口点
+   在 PCL.ModMod.McMod.LoadWithClass(ZipArchive Jar)
+错误类型：System.IO.FileNotFoundException
+[11:29:52.295] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[11:29:55.906] [Download] RoughlyEnoughItems-9.1.668.jar 3181#：超时（6s）
+[11:29:56.359] [Control] 按下图标按钮
+[11:29:56.436] [UI] 弹出提示：已将 [JEI物品管理器] jei-1.19.2-forge-11.4.0.286.jar 删除到回收站！
+[11:30:01.605] [Control] 按下图标按钮：BtnTitleInner
+[11:30:01.605] [Control] 切换主要页面：Launch, -1
+[11:30:02.247] [Control] 按下按钮：启动游戏
+[11:30:02.247] [Loader] 加载器 Loader Launch 状态改变：Loading
+[11:30:02.252] [Launch] 预检测已通过
+[11:30:02.252] [Download] 开始后台更新资源文件索引
+[11:30:02.252] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[11:30:02.252] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[11:30:02.252] [Loader] 加载器 登录 状态改变：Waiting
+[11:30:02.252] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[11:30:02.252] [Download] 版本 Moyu Delight 对应的资源文件索引为 1.19
+[11:30:02.252] [Loader] 加载器 获取 Java 状态改变：Loading
+[11:30:02.252] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[11:30:02.253] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[11:30:02.253] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[11:30:02.253] [Java] 开始完全遍历查找：D:\Games\MC\Moyu Delight\
+[11:30:02.253] [Loader] 加载器 登录 状态改变：Loading
+[11:30:02.253] [Loader] 加载器 补全文件 状态改变：Loading
+[11:30:02.253] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[11:30:02.253] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[11:30:02.253] [Launch] 登录加载已开始
+[11:30:02.253] [Launch] 登录加载已结束
+[11:30:02.253] [Loader] 加载器 登录 状态改变：Finished
+[11:30:02.253] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[11:30:02.253] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[11:30:02.253] [Taskbar] Minecraft 启动 已加入任务列表
+[11:30:02.253] [Download] 版本 Moyu Delight 对应的资源文件索引为 1.19
+[11:30:02.253] [Java] 开始完全遍历查找：D:\Games\MC\Moyu Delight\.minecraft\
+[11:30:02.255] [Java] 开始完全遍历查找：D:\Games\MC\Moyu Delight\.minecraft\versions\Moyu Delight\
+[11:30:02.255] [Java] 排序后的 Java 优先顺序：
+[11:30:02.255] [Java]  - JDK 17 (17.0.2)，64 位：D:\Games\MC\jdk-17.0.2\bin\
+[11:30:02.255] [Java] 最终选定的 Java：JDK 17 (17.0.2)，64 位：D:\Games\MC\jdk-17.0.2\bin\
+[11:30:02.255] [Launch] 选择的 Java：JDK 17 (17.0.2)，64 位：D:\Games\MC\jdk-17.0.2\bin\
+[11:30:02.255] [Loader] 加载器 获取 Java 状态改变：Finished
+[11:30:02.261] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[11:30:02.261] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[11:30:02.261] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[11:30:02.261] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[11:30:02.291] [Minecraft] 获取支持库列表：Moyu Delight
+[11:30:02.302] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[11:30:02.302] [Loader] 加载器 下载资源文件 状态改变：Loading
+[11:30:02.302] [Loader] 加载器 下载资源文件 状态改变：Finished
+[11:30:02.302] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[11:30:02.343] [Download] 1.19.json 3869#：开始，起始点 0，https://download.mcbbs.net/v1/packages/a9c8b05a8082a65678beda6dfa2b8f21fa627bce/1.19.json
+[11:30:02.361] [Download] 1.19.json：文件大小 385608 B（377 K）
+[11:30:02.377] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[11:30:02.377] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[11:30:02.377] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[11:30:02.377] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[11:30:02.377] [Loader] 加载器 补全文件 状态改变：Finished
+[11:30:02.378] [Loader] 加载器 获取启动参数 状态改变：Loading
+[11:30:02.378] [Launch] 开始获取 Minecraft 启动参数
+[11:30:02.378] [Launch] 获取新版 JVM 参数
+[11:30:02.378] [Launch] 当前剩余内存：23G
+[11:30:02.378] [System] 获取资源：JavaWrapper
+[11:30:02.378] [Java] 已释放 Java Wrapper：C:\Users\mgKze\AppData\Roaming\PCL\JavaWrapper.jar
+[11:30:02.378] [Launch] 新版 JVM 参数获取成功：
+[11:30:02.378] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.5/asm-9.5.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx14438m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -Doolloo.jlw.tmpdir="C:\Users\mgKze\AppData\Roaming\PCL" -jar "C:\Users\mgKze\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher
+[11:30:02.378] [Launch] 获取新版 Game 参数
+[11:30:02.378] [Launch] 新版 Game 参数获取成功
+[11:30:02.378] [Minecraft] 获取支持库列表：Moyu Delight
+[11:30:02.382] [Launch] Minecraft 启动参数：
+[11:30:02.383] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="D:\Games\MC\Moyu Delight\.minecraft\versions\Moyu Delight\Moyu Delight-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=308 -cp "D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-common\4.1.77.Final\netty-common-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-buffer\4.1.77.Final\netty-buffer-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-codec\4.1.77.Final\netty-codec-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-handler\4.1.77.Final\netty-handler-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-resolver\4.1.77.Final\netty-resolver-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-transport\4.1.77.Final\netty-transport-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.77.Final\netty-transport-native-unix-common-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.77.Final\netty-transport-classes-epoll-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\datafixerupper\5.0.28\datafixerupper-5.0.28.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\authlib\3.11.49\authlib-3.11.49.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\text2speech\1.16.7\text2speech-1.16.7.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\cpw\mods\securejarhandler\2.1.4\securejarhandler-2.1.4.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\ow2\asm\asm\9.5\asm-9.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\ow2\asm\asm-commons\9.5\asm-commons-9.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\ow2\asm\asm-tree\9.5\asm-tree-9.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\ow2\asm\asm-util\9.5\asm-util-9.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\ow2\asm\asm-analysis\9.5\asm-analysis-9.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\eventbus\6.0.3\eventbus-6.0.3.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\forgespi\6.0.0\forgespi-6.0.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\cpw\mods\modlauncher\10.0.8\modlauncher-10.0.8.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\JarJarSelector\0.3.16\JarJarSelector-0.3.16.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\JarJarMetadata\0.3.16\JarJarMetadata-0.3.16.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\cpw\mods\bootstraplauncher\1.1.2\bootstraplauncher-1.1.2.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\JarJarFileSystems\0.3.16\JarJarFileSystems-0.3.16.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\fmlloader\1.19.2-43.3.0\fmlloader-1.19.2-43.3.0.jar;D:\Games\MC\Moyu Delight\.minecraft\versions\Moyu Delight\Moyu Delight.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,"Moyu Delight".jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory="D:\Games\MC\Moyu Delight\.minecraft\libraries" -p "D:\Games\MC\Moyu Delight\.minecraft\libraries"/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/org/ow2/asm/asm/9.5/asm-9.5.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx14438m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -Doolloo.jlw.tmpdir="C:\Users\mgKze\AppData\Roaming\PCL" -jar "C:\Users\mgKze\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher --username MorningKaze --version "Moyu Delight" --gameDir "D:\Games\MC\Moyu Delight\.minecraft" --assetsDir "D:\Games\MC\Moyu Delight\.minecraft\assets" --assetIndex 1.19 --uuid 957c17e6bb4e4d129dbe8cf4e02958ca --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXevAno --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 --launchTarget forgeclient --fml.forgeVersion 43.3.0 --fml.mcVersion 1.19.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220805.130853 
+[11:30:02.383] [Loader] 加载器 获取启动参数 状态改变：Finished
+[11:30:02.384] [Loader] 加载器 解压文件 状态改变：Loading
+[11:30:02.384] [Launch] 正在解压 Natives 文件
+[11:30:02.384] [Loader] 加载器 解压文件 状态改变：Finished
+[11:30:02.415] [Loader] 加载器 预启动处理 状态改变：Loading
+[11:30:02.415] [Launch] 已更新 launcher_profiles.json
+[11:30:02.415] [Launch] 当前语言为 zh_cn，无需修改
+[11:30:02.415] [Loader] 加载器 预启动处理 状态改变：Finished
+[11:30:02.443] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[11:30:02.444] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[11:30:02.463] [Download] 1.19.json：已完成，剩余文件 1
+[11:30:02.463] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[11:30:02.464] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[11:30:02.464] [Launch] 后台更新资源文件索引成功：C:\Users\mgKze\AppData\Local\Temp\PCL\Cache\1.19.json
+[11:30:02.464] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[11:30:02.464] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[11:30:02.472] [Loader] 加载器 启动进程 状态改变：Loading
+[11:30:02.474] [Launch] 已启动游戏进程：D:\Games\MC\jdk-17.0.2\bin\javaw.exe
+[11:30:02.474] [Loader] 加载器 启动进程 状态改变：Finished
+[11:30:02.513] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[11:30:02.513] [Launch] 
+[11:30:02.513] [Launch] ~ 基础参数 ~
+[11:30:02.513] [Launch] PCL 版本：Release 2.6.1000 (308)
+[11:30:02.513] [Launch] 游戏版本：1.19.2, Forge 43.3.0（19.2）
+[11:30:02.513] [Launch] 资源版本：1.19
+[11:30:02.513] [Launch] 版本继承：无
+[11:30:02.514] [Launch] 分配的内存：14.1 GB（14438 MB）
+[11:30:02.514] [Launch] MC 文件夹：D:\Games\MC\Moyu Delight\.minecraft\
+[11:30:02.514] [Launch] 版本文件夹：D:\Games\MC\Moyu Delight\.minecraft\versions\Moyu Delight\
+[11:30:02.514] [Launch] 版本隔离：False
+[11:30:02.514] [Launch] HMCL 格式：False
+[11:30:02.514] [Launch] Java 信息：JDK 17 (17.0.2)，64 位：D:\Games\MC\jdk-17.0.2\bin\
+[11:30:02.514] [Launch] 环境变量：未设置
+[11:30:02.514] [Launch] 
+[11:30:02.514] [Launch] ~ 登录参数 ~
+[11:30:02.514] [Launch] 玩家用户名：MorningKaze
+[11:30:02.514] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXevAno
+[11:30:02.514] [Launch] ClientToken：957c17e6bb4e4d129dbe8cf4e02958ca
+[11:30:02.514] [Launch] UUID：957c17e6bb4e4d129dbe8cf4e02958ca
+[11:30:02.514] [Launch] 登录方式：Microsoft
+[11:30:02.514] [Launch] 
+[11:30:02.514] [Launch] [8064] 开始 Minecraft 日志监控
+[11:30:02.514] [Launch] [全局] 出现运行中的 Minecraft
+[11:30:02.744] [Launch] [8064] 日志 1/5：已出现日志输出
+[11:30:07.011] [Download] RoughlyEnoughItems-9.1.668.jar 3724#：超时（6s）
+[11:30:08.260] [Download] RoughlyEnoughItems-9.1.668.jar：已完成，剩余文件 0
+[11:30:08.260] [Loader] 加载器 下载文件 状态改变：Finished
+[11:30:08.260] [Loader] 加载器 Mod 下载：[Forge 1.19-1.19.2] v9.1.668  状态改变：Finished
+[11:30:08.296] [UI] 弹出提示：Mod 下载：[Forge 1.19-1.19.2] v9.1.668 成功！
+[11:30:08.296] [Taskbar] Mod 下载：[Forge 1.19-1.19.2] v9.1.668  已移出任务列表
+[11:30:24.520] [Launch] [8064] 日志 2/5：游戏用户已设置
+[11:30:24.753] [Launch] [8064] Minecraft 窗口已加载：Minecraft* 1.19.2（1510058）
+[11:30:24.753] [Launch] [8064] 日志 3/5：LWJGL 版本已确认
+[11:30:24.753] [Launch] [8064] Minecraft 加载已完成
+[11:30:24.781] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[11:30:24.784] [Loader] 加载器 结束处理 状态改变：Loading
+[11:30:24.785] [Launch] 开始启动结束处理
+[11:30:24.785] [Launch] 启动器可见性：5
+[11:30:24.785] [Loader] 加载器 结束处理 状态改变：Finished
+[11:30:24.818] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[11:30:24.843] [Loader] 加载器 Loader Launch 状态改变：Finished
+[11:30:24.873] [UI] 弹出提示：Moyu Delight 启动成功！
+[11:30:52.044] [Launch] [8064] 日志 4/5：OpenAL 已加载
+[11:30:52.279] [Launch] [8064] 日志 5/5：材质已加载
+[11:34:31.885] [Control] 按下按钮：版本设置
+[11:34:31.888] [Control] 切换主要页面：VersionSetup, 0
+[11:34:33.241] [Control] 按下单选列表项：Mod 管理
+[11:34:33.389] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[11:34:33.390] [System] 已刷新 Mod 列表
+[11:34:33.466] Mod Class 信息不可用（D:\Games\MC\Moyu Delight\.minecraft\mods\create-structures-0.1.0.jar）：未找到 Mod 入口点
+   在 PCL.ModMod.McMod.LoadWithClass(ZipArchive Jar)
+错误类型：System.IO.FileNotFoundException
+[11:34:33.865] Mod Class 信息不可用（D:\Games\MC\Moyu Delight\.minecraft\mods\kotlinforforge-3.12.0-all.jar）：未找到 Mod 入口点
+   在 PCL.ModMod.McMod.LoadWithClass(ZipArchive Jar)
+错误类型：System.IO.FileNotFoundException
+[11:34:34.465] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[11:34:35.144] [Control] 按下按钮：打开 Mod 文件夹
+[11:34:35.145] [System] 执行外部命令：explorer.exe "D:\Games\MC\Moyu Delight\.minecraft\mods\"
+[15:07:50.473] [Animation] 两个动画帧间隔 219 ms
+[15:07:58.929] [Animation] 两个动画帧间隔 406 ms
+[15:07:59.647] [Animation] 两个动画帧间隔 437 ms
+[15:08:00.447] [Animation] 两个动画帧间隔 562 ms
+[15:55:56.562] [Launch] [8064] Minecraft 已退出，返回值：0
+[15:55:56.562] [Launch] [全局] 已无运行中的 Minecraft
+[15:55:56.795] [Launch] [8064] Minecraft 日志监控已退出
+[16:53:41.630] [Animation] 两个动画帧间隔 234 ms
+[16:53:45.365] [Animation] 两个动画帧间隔 2531 ms
+[16:53:47.169] [Animation] 两个动画帧间隔 500 ms
+[20:35:26.635] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[20:35:26.636] [System] 已刷新 Mod 列表
+[20:35:26.704] Mod Class 信息不可用（D:\Games\MC\Moyu Delight\.minecraft\mods\create-structures-0.1.0.jar）：未找到 Mod 入口点
+   在 PCL.ModMod.McMod.LoadWithClass(ZipArchive Jar)
+错误类型：System.IO.FileNotFoundException
+[20:35:27.111] Mod Class 信息不可用（D:\Games\MC\Moyu Delight\.minecraft\mods\kotlinforforge-3.12.0-all.jar）：未找到 Mod 入口点
+   在 PCL.ModMod.McMod.LoadWithClass(ZipArchive Jar)
+错误类型：System.IO.FileNotFoundException
+[20:35:27.709] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[20:35:27.884] [Control] 按下图标按钮：BtnTitleInner
+[20:35:27.885] [Control] 切换主要页面：Launch, -1
+[20:35:29.105] [Control] 按下按钮：启动游戏
+[20:35:29.105] [Loader] 加载器 Loader Launch 状态改变：Loading
+[20:35:29.110] [Launch] 预检测已通过
+[20:35:29.110] [Download] 开始后台更新资源文件索引
+[20:35:29.110] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[20:35:29.110] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[20:35:29.110] [Download] 版本 Moyu Delight 对应的资源文件索引为 1.19
+[20:35:29.110] [Loader] 加载器 登录 状态改变：Waiting
+[20:35:29.110] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[20:35:29.110] [Loader] 加载器 获取 Java 状态改变：Loading
+[20:35:29.110] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[20:35:29.110] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[20:35:29.110] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[20:35:29.110] [Java] 开始完全遍历查找：D:\Games\MC\Moyu Delight\
+[20:35:29.111] [Loader] 加载器 登录 状态改变：Loading
+[20:35:29.111] [Loader] 加载器 补全文件 状态改变：Loading
+[20:35:29.111] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[20:35:29.111] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[20:35:29.111] [Launch] 登录加载已开始
+[20:35:29.111] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[20:35:29.111] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[20:35:29.111] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[20:35:29.111] [Launch] 登录方式：正版（MorningKaze）
+[20:35:29.111] [Launch] 微软登录完成
+[20:35:29.111] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[20:35:29.111] [Java] 开始完全遍历查找：D:\Games\MC\Moyu Delight\.minecraft\
+[20:35:29.111] [Taskbar] Minecraft 启动 已加入任务列表
+[20:35:29.111] [Download] 版本 Moyu Delight 对应的资源文件索引为 1.19
+[20:35:29.115] [Java] 开始完全遍历查找：D:\Games\MC\Moyu Delight\.minecraft\versions\Moyu Delight\
+[20:35:29.115] [Java] 排序后的 Java 优先顺序：
+[20:35:29.115] [Java]  - JDK 17 (17.0.2)，64 位：D:\Games\MC\jdk-17.0.2\bin\
+[20:35:29.115] [Java] 最终选定的 Java：JDK 17 (17.0.2)，64 位：D:\Games\MC\jdk-17.0.2\bin\
+[20:35:29.115] [Launch] 选择的 Java：JDK 17 (17.0.2)，64 位：D:\Games\MC\jdk-17.0.2\bin\
+[20:35:29.115] [Loader] 加载器 获取 Java 状态改变：Finished
+[20:35:29.117] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[20:35:29.117] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[20:35:29.117] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[20:35:29.117] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[20:35:29.134] [Launch] 登录加载已结束
+[20:35:29.134] [Loader] 加载器 登录 状态改变：Finished
+[20:35:29.146] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[20:35:29.146] [Loader] 加载器 下载资源文件 状态改变：Loading
+[20:35:29.146] [Loader] 加载器 下载资源文件 状态改变：Finished
+[20:35:29.147] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[20:35:29.150] [Minecraft] 获取支持库列表：Moyu Delight
+[20:35:29.228] [Download] 1.19.json 4616#：开始，起始点 0，https://download.mcbbs.net/v1/packages/a9c8b05a8082a65678beda6dfa2b8f21fa627bce/1.19.json
+[20:35:29.237] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[20:35:29.237] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[20:35:29.237] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[20:35:29.237] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[20:35:29.237] [Loader] 加载器 补全文件 状态改变：Finished
+[20:35:29.237] [Loader] 加载器 获取启动参数 状态改变：Loading
+[20:35:29.237] [Launch] 开始获取 Minecraft 启动参数
+[20:35:29.237] [Launch] 获取新版 JVM 参数
+[20:35:29.237] [Launch] 当前剩余内存：22.1G
+[20:35:29.237] [System] 获取资源：JavaWrapper
+[20:35:29.238] [Java] 已释放 Java Wrapper：C:\Users\mgKze\AppData\Roaming\PCL\JavaWrapper.jar
+[20:35:29.238] [Launch] 新版 JVM 参数获取成功：
+[20:35:29.238] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.5/asm-9.5.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx14131m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -Doolloo.jlw.tmpdir="C:\Users\mgKze\AppData\Roaming\PCL" -jar "C:\Users\mgKze\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher
+[20:35:29.238] [Launch] 获取新版 Game 参数
+[20:35:29.238] [Launch] 新版 Game 参数获取成功
+[20:35:29.238] [Minecraft] 获取支持库列表：Moyu Delight
+[20:35:29.242] [Launch] Minecraft 启动参数：
+[20:35:29.243] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="D:\Games\MC\Moyu Delight\.minecraft\versions\Moyu Delight\Moyu Delight-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=308 -cp "D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-common\4.1.77.Final\netty-common-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-buffer\4.1.77.Final\netty-buffer-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-codec\4.1.77.Final\netty-codec-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-handler\4.1.77.Final\netty-handler-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-resolver\4.1.77.Final\netty-resolver-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-transport\4.1.77.Final\netty-transport-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.77.Final\netty-transport-native-unix-common-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.77.Final\netty-transport-classes-epoll-4.1.77.Final.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\datafixerupper\5.0.28\datafixerupper-5.0.28.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\authlib\3.11.49\authlib-3.11.49.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\mojang\text2speech\1.16.7\text2speech-1.16.7.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-arm64.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\cpw\mods\securejarhandler\2.1.4\securejarhandler-2.1.4.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\ow2\asm\asm\9.5\asm-9.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\ow2\asm\asm-commons\9.5\asm-commons-9.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\ow2\asm\asm-tree\9.5\asm-tree-9.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\ow2\asm\asm-util\9.5\asm-util-9.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\ow2\asm\asm-analysis\9.5\asm-analysis-9.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\eventbus\6.0.3\eventbus-6.0.3.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\forgespi\6.0.0\forgespi-6.0.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\cpw\mods\modlauncher\10.0.8\modlauncher-10.0.8.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\JarJarSelector\0.3.16\JarJarSelector-0.3.16.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\JarJarMetadata\0.3.16\JarJarMetadata-0.3.16.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\cpw\mods\bootstraplauncher\1.1.2\bootstraplauncher-1.1.2.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\JarJarFileSystems\0.3.16\JarJarFileSystems-0.3.16.jar;D:\Games\MC\Moyu Delight\.minecraft\libraries\net\minecraftforge\fmlloader\1.19.2-43.3.0\fmlloader-1.19.2-43.3.0.jar;D:\Games\MC\Moyu Delight\.minecraft\versions\Moyu Delight\Moyu Delight.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,"Moyu Delight".jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory="D:\Games\MC\Moyu Delight\.minecraft\libraries" -p "D:\Games\MC\Moyu Delight\.minecraft\libraries"/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/org/ow2/asm/asm/9.5/asm-9.5.jar;"D:\Games\MC\Moyu Delight\.minecraft\libraries"/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx14131m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -Doolloo.jlw.tmpdir="C:\Users\mgKze\AppData\Roaming\PCL" -jar "C:\Users\mgKze\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher --username MorningKaze --version "Moyu Delight" --gameDir "D:\Games\MC\Moyu Delight\.minecraft" --assetsDir "D:\Games\MC\Moyu Delight\.minecraft\assets" --assetIndex 1.19 --uuid 957c17e6bb4e4d129dbe8cf4e02958ca --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXevAno --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 --launchTarget forgeclient --fml.forgeVersion 43.3.0 --fml.mcVersion 1.19.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220805.130853 
+[20:35:29.243] [Loader] 加载器 获取启动参数 状态改变：Finished
+[20:35:29.244] [Loader] 加载器 解压文件 状态改变：Loading
+[20:35:29.244] [Launch] 正在解压 Natives 文件
+[20:35:29.244] [Loader] 加载器 解压文件 状态改变：Finished
+[20:35:29.256] [Download] 1.19.json：文件大小 385608 B（377 K）
+[20:35:29.274] [Loader] 加载器 预启动处理 状态改变：Loading
+[20:35:29.274] [Launch] 已更新 launcher_profiles.json
+[20:35:29.274] [Launch] 当前语言为 zh_cn，无需修改
+[20:35:29.274] [Loader] 加载器 预启动处理 状态改变：Finished
+[20:35:29.300] [Download] 1.19.json：已完成，剩余文件 0
+[20:35:29.300] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[20:35:29.300] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[20:35:29.301] [Launch] 后台更新资源文件索引成功：C:\Users\mgKze\AppData\Local\Temp\PCL\Cache\1.19.json
+[20:35:29.301] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[20:35:29.301] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[20:35:29.321] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[20:35:29.322] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[20:35:29.352] [Loader] 加载器 启动进程 状态改变：Loading
+[20:35:29.357] [Launch] 已启动游戏进程：D:\Games\MC\jdk-17.0.2\bin\javaw.exe
+[20:35:29.357] [Loader] 加载器 启动进程 状态改变：Finished
+[20:35:29.357] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[20:35:29.357] [Launch] 
+[20:35:29.357] [Launch] ~ 基础参数 ~
+[20:35:29.357] [Launch] PCL 版本：Release 2.6.1000 (308)
+[20:35:29.357] [Launch] 游戏版本：1.19.2, Forge 43.3.0（19.2）
+[20:35:29.357] [Launch] 资源版本：1.19
+[20:35:29.357] [Launch] 版本继承：无
+[20:35:29.358] [Launch] 分配的内存：13.8 GB（14131 MB）
+[20:35:29.358] [Launch] MC 文件夹：D:\Games\MC\Moyu Delight\.minecraft\
+[20:35:29.358] [Launch] 版本文件夹：D:\Games\MC\Moyu Delight\.minecraft\versions\Moyu Delight\
+[20:35:29.358] [Launch] 版本隔离：False
+[20:35:29.358] [Launch] HMCL 格式：False
+[20:35:29.358] [Launch] Java 信息：JDK 17 (17.0.2)，64 位：D:\Games\MC\jdk-17.0.2\bin\
+[20:35:29.358] [Launch] 环境变量：未设置
+[20:35:29.358] [Launch] 
+[20:35:29.358] [Launch] ~ 登录参数 ~
+[20:35:29.358] [Launch] 玩家用户名：MorningKaze
+[20:35:29.358] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXevAno
+[20:35:29.358] [Launch] ClientToken：957c17e6bb4e4d129dbe8cf4e02958ca
+[20:35:29.358] [Launch] UUID：957c17e6bb4e4d129dbe8cf4e02958ca
+[20:35:29.358] [Launch] 登录方式：Microsoft
+[20:35:29.358] [Launch] 
+[20:35:29.358] [Launch] [21048] 开始 Minecraft 日志监控
+[20:35:29.358] [Launch] [全局] 出现运行中的 Minecraft
+[20:35:29.587] [Launch] [21048] 日志 1/5：已出现日志输出
+[20:35:30.637] [Animation] 两个动画帧间隔 375 ms
+[20:35:31.253] [Animation] 两个动画帧间隔 375 ms
+[20:35:51.673] [Launch] [21048] 日志 2/5：游戏用户已设置
+[20:35:51.673] [Launch] [21048] 日志 3/5：LWJGL 版本已确认
+[20:35:52.176] [Animation] 两个动画帧间隔 485 ms
+[20:35:52.399] [Launch] [21048] Minecraft 窗口已加载：Minecraft* 1.19.2（13437506）
+[20:35:52.399] [Launch] [21048] Minecraft 加载已完成
+[20:35:52.473] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[20:35:52.473] [Loader] 加载器 结束处理 状态改变：Loading
+[20:35:52.474] [Launch] 开始启动结束处理
+[20:35:52.474] [Launch] 启动器可见性：5
+[20:35:52.474] [Loader] 加载器 结束处理 状态改变：Finished
+[20:35:52.474] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[20:35:52.582] [Loader] 加载器 Loader Launch 状态改变：Finished
+[20:35:52.630] [UI] 弹出提示：Moyu Delight 启动成功！
+[20:36:01.626] [Animation] 两个动画帧间隔 313 ms
+[20:36:02.184] [Animation] 两个动画帧间隔 375 ms
+[20:36:20.442] [Launch] [21048] 日志 4/5：OpenAL 已加载
+[20:36:20.679] [Launch] [21048] 日志 5/5：材质已加载
+[20:49:20.775] [Launch] [21048] Minecraft 已退出，返回值：0
+[20:49:20.775] [Launch] [全局] 已无运行中的 Minecraft
+[20:49:21.010] [Launch] [21048] Minecraft 日志监控已退出
+[20:49:22.142] [Control] 按下图标按钮：BtnTitleClose
+[20:49:22.153] [System] 收到关闭指令
+[20:49:22.365] [System] 程序已退出，返回值：Success
